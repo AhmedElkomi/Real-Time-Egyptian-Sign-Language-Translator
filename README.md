@@ -24,3 +24,5 @@ All rights reserved.
 This project and its source code are proprietary and may not be used, copied, modified, or distributed in any form without explicit permission from the author.
 
 ---
+
+📩 **For any questions or inquiries, contact me:** [ahmed.radwan@gu.edu.eg](mailto:ahmed.radwan@gu.edu.eg)
