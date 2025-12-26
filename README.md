@@ -27,4 +27,5 @@ This project and its source code are proprietary and may not be used, copied, mo
 
 📖 Read the full story and see screenshots here:
 Medium Article : https://ahmedashrafmo.medium.com/real-time-egyptian-sign-language-translator-ai-powered-solution-to-empower-the-deaf-community-in-727430624b1c?postPublishedType=repub
+
 📩 **For any questions or inquiries, contact me:** [ahmedashrafmohamed74@gmail.com](mailto:ahmedashrafmohamed74@gmail.com)
