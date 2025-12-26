@@ -25,4 +25,4 @@ This project and its source code are proprietary and may not be used, copied, mo
 
 ---
 
-📩 **For any questions or inquiries, contact me:** [ahmed.radwan@gu.edu.eg](mailto:ahmed.radwan@gu.edu.eg)
+📩 **For any questions or inquiries, contact me:** [ahmedashrafmohamed74@gmail.com](mailto:ahmedashrafmohamed74@gmail.com)
