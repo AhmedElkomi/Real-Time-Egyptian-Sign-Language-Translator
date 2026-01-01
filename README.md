@@ -18,10 +18,17 @@ The code, dataset, and implementation details are **proprietary** and may not be
 
 ## 📄 License
 
-Copyright (c) 2025 **Ahmed Ashraf**
-All rights reserved.
+© 2025 Ahmed Ashraf. This work, "Real-Time Egyptian Sign Language Translator," is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
-This project and its source code are proprietary and may not be used, copied, modified, or distributed in any form without explicit permission from the author.
+You are free to:
+- Share — copy and redistribute this material in any medium or format.
+
+Under the following terms:
+- Attribution — You must give appropriate credit to Ahmed Ashraf, provide a link to the license, and indicate that this work is unmodified. You may not imply endorsement by the creator.
+- NonCommercial — You may not use this material for commercial purposes.
+- NoDerivatives — You may not remix, transform, or build upon this material.
+
+For the full license, see: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ---
 
