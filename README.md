@@ -1,4 +1,4 @@
-;# Real-Time Egyptian Sign Language Translator
+## Real-Time Egyptian Sign Language Translator
 
 The **Real-Time Egyptian Sign Language (ESL) Translator** is a proprietary demonstration project that showcases live translation of Egyptian Sign Language into Arabic text and speech. It is designed to highlight accessibility-focused AI solutions for communication between Deaf/Hard-of-Hearing (DHH) and hearing individuals.
 
