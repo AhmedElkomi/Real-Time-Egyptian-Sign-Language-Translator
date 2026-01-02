@@ -37,5 +37,6 @@ For the full license, see: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 **Towards AI Article:** https://pub.towardsai.net/ai-powered-real-time-egyptian-sign-language-translator-2caf5e7eb28f
 
-📩 **For any questions or inquiries, contact us :** [Ahmed Ashraf]((https://www.linkedin.com/in/ahmed-ashraf-aam/)) [Mohamed Ibrahim]((https://www.linkedin.com/in/mohamed-ibrahim-aboelhassan))
-
+Ahmed Ashraf (https://www.linkedin.com/in/ahmed-ashraf-aam/
+) · Mohamed Ibrahim (https://www.linkedin.com/in/mohamed-ibrahim-aboelhassan
+)
