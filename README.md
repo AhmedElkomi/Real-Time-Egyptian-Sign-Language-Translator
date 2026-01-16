@@ -33,7 +33,7 @@ For the full license, see: https://creativecommons.org/licenses/by-nc-nd/4.0/
 ---
 
 ## 📖 Read the full story and see screenshots here
-[**Towards AI Article:** ](https://towardsai.net/p/machine-learning/ai-powered-real-time-egyptian-sign-language-translator)
+[**Towards AI Article** ](https://towardsai.net/p/machine-learning/ai-powered-real-time-egyptian-sign-language-translator)
 
 ## Contact us
 Ahmed Ashraf (https://www.linkedin.com/in/ahmed-ashraf-aam/
