@@ -33,9 +33,7 @@ For the full license, see: https://creativecommons.org/licenses/by-nc-nd/4.0/
 ---
 
 ## 📖 Read the full story and see screenshots here
-**Medium Article:** https://ahmedashrafmo.medium.com/real-time-egyptian-sign-language-translator-ai-powered-solution-to-empower-the-deaf-community-in-727430624b1c
-
-**Towards AI Article:** [https://pub.towardsai.net/ai-powered-real-time-egyptian-sign-language-translator-2caf5e7eb28f](https://towardsai.net/p/machine-learning/ai-powered-real-time-egyptian-sign-language-translator)
+[**Towards AI Article:** ](https://towardsai.net/p/machine-learning/ai-powered-real-time-egyptian-sign-language-translator)
 
 ## Contact us
 Ahmed Ashraf (https://www.linkedin.com/in/ahmed-ashraf-aam/
