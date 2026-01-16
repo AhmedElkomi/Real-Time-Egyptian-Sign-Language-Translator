@@ -37,5 +37,6 @@ For the full license, see: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## Contact us
 Ahmed Ashraf (https://www.linkedin.com/in/ahmed-ashraf-aam/
-) · Mohamed Ibrahim (https://www.linkedin.com/in/mohamed-ibrahim-aboelhassan
+)
+Mohamed Ibrahim (https://www.linkedin.com/in/mohamed-ibrahim-aboelhassan
 )
